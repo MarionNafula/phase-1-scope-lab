@@ -5,15 +5,15 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2022-12-06T11:22:07.828Z",
-    "end": "2022-12-06T11:22:08.202Z",
-    "duration": 374
+    "start": "2024-09-26T10:47:34.624Z",
+    "end": "2024-09-26T10:47:35.058Z",
+    "duration": 434
   },
   "tests": [
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,7 +34,7 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -52,7 +52,7 @@
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,7 +73,7 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
